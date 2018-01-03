@@ -9,7 +9,11 @@ function yourAnimal() {
   // and the above function both pass?
   // P.S.: You can't just hard-code 'cat' below
   var animal = 'cat';
+<<<<<<< HEAD
   return animal;
+=======
+  return animal
+>>>>>>> 96026b778db057adbb76936e636b2530bb90e64b
 }
 
 function add2(n) {
